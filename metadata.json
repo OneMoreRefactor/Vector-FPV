@@ -1,0 +1,6 @@
+{
+  "name": "Vektor FPV",
+  "description": "Realistischer 6-DOF FPV-Drohnensimulator mit 400-Hz-Physik, Betaflight-PID-Regler, Three.js-Trainingsgelände und nativer iPadOS-Fernsteuerungs-Unterstützung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
